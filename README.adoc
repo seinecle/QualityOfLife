@@ -1,0 +1,20 @@
+= Quality of Life
+
+:Author:    Clement Levallois
+:Date:      08/22/2018
+:Revision:  0.1
+
+== Goal
+- Creating an API and a geographical map of the places where quality of life is the best.
+- What is a good quality of life depends on the user's choice of parameters.
+
+
+== Team
+- Clement Levallois (architecture, backend code, data wrangling, etc.)
+- you? (front end, co-architecture and more)
+
+== Road map and plans
+See https://github.com/seinecle/QualityOfLife/wiki/Summary[the wiki] for details.
+
+== Licence
+Not decided yet.
